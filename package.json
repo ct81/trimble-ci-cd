@@ -1,0 +1,16 @@
+{
+  "name": "render-node-starter",
+  "version": "1.0.0",
+  "description": "Full starter with Node.js, static assets, and Render CI/CD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
